@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-THEME_NAME:=alpha-lamboghini
+THEME_NAME:=alpha-batman
 THEME_TITLE:=Alpha
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
