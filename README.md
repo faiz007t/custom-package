@@ -6,7 +6,7 @@ How to build
 
 ```
 echo >> feeds.conf.default
-echo 'src-git custompackage https://github.com/BootLoopLover/custom-package.git' >> feeds.conf.default
+echo 'src-git custompackage https://github.com/faiz007t/custom-package.git' >> feeds.conf.default
 ```
 
 #Update Feeds
